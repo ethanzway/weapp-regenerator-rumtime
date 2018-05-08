@@ -38,7 +38,7 @@ var _typeof =
     if (inModule) {
       // If regeneratorRuntime is defined globally and we're in a module,
       // make the exports object identical to regeneratorRuntime.
-      module.exports = runtime;
+      module.exports = module.exports.default = runtime;
     }
     // Don't bother evaluating the rest of this file if the runtime was
     // already defined globally.
