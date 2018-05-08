@@ -1,0 +1,6 @@
+{
+  "name": "weapp-regenerator-rumtime",
+  "description": "A weapp-regenerator-rumtime polyfill.",
+  "version": "0.0.0",
+  "main": "index.js"
+}
